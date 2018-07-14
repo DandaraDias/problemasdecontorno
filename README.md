@@ -21,3 +21,8 @@
 
 * programas correspondentes: 11-3-1-LetraA.c (para h = 1/2), 11-3-1-LetraB.c (para h = 1/4)
 * dados gerados: 11-3-1-LetraA.dat e 11-3-1-LetraB.dat (com os índices, valores de x, valor de y numérico e valor de y exato)
+
+### 11.3 - 2:
+
+* programas correspondentes: 11-3-2-LetraA.c (para h = pi/4), 11-3-2-LetraB.c (para h = pi/8)
+* dados gerados: 11-3-2-LetraA.dat e 11-3-2-LetraB.dat (com os índices, valores de x, valor de y numérico e valor de y exato)
