@@ -31,3 +31,8 @@
 
 * programa correspondente: 11-3-4-LetraC.c 
 * dados gerados: 11-3-4-LetraC.dat (com os índices, valores de x, valor de y numérico e valor de y exato)
+
+### 11.3 - 5:
+
+* programas correspondentes: 11-3-5-LetraA.c (para h = 0.1), 11-3-5-LetraB.c (para h = 0.05)
+* dados gerados: 11-3-5-LetraA.dat e 11-3-5-LetraB.dat (com os índices, valores de x, valor de y numérico e valor de y exato)
