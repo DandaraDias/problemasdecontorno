@@ -16,3 +16,8 @@
 
 * programa correspondente: 11-1-7.c
 * pdf gerado: 11-1-7.pdf (com os dados obtidos e a equação exata)
+
+### 11.3 - 1:
+
+* programas correspondentes: 11-3-1-LetraA.c (para h = 1/2), 11-3-1-LetraB.c (para h = 1/4)
+* dados gerados: 11-3-1-LetraA.dat e 11-3-1-LetraB.dat (com os índices, valores de x, valor de y numérico e valor de y exato)
